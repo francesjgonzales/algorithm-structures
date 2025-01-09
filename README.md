@@ -26,13 +26,13 @@ Write a program that determines if a customer is eligible for a discount by chec
 
 ### Decide on the algorithm structure:
 
-**_Are there multiple conditions to check?_** No, there's only 1 condition: whether the customer is eligible for a 10% discount or not.
-**Is the decision between 2 outcomes?** Yes, discount applied or not applied
-**Does the problem involved classifying items into multiple categories?** No, there's only 2 possibilities
+- **_Are there multiple conditions to check?_** No, there's only 1 condition: whether the customer is eligible for a 10% discount or not.
+- **Is the decision between 2 outcomes?** Yes, discount applied or not applied
+- **Does the problem involved classifying items into multiple categories?** No, there's only 2 possibilities
 
 ### Chosen Structure:
 
-Use a conditional structure of IF/ELSE statement to check if the statement is true or false and make a decision after.
+Use a conditional structure of `IF/ELSE` statement to check if the statement is true or false and make a decision after.
 
 ### Pseudocode for algorithmic structure:
 
@@ -62,13 +62,13 @@ OTHERWISE
 
 - Write a program that takes the genre of a book as input.
 
-- If the genre is "Fiction," print "Category: Fiction."
+- If the genre is `Fiction`, print `Category: Fiction.`
 
-- If the genre is "Non-Fiction," print "Category: Non-Fiction."
+- If the genre is `Non-Fiction`, print `Category: Non-Fiction.`
 
-- If the genre is "Science Fiction," print "Category: Science Fiction."
+- If the genre is `Science Fiction`, print `Category: Science Fiction.`
 
-- If the genre does not match any of these, print "Category: Unknown."
+- If the genre does not match any of these, print `Category: Unknown.`
 
 ### Define the problem:
 
@@ -88,7 +88,7 @@ Write a program that categorize each book according to genre based on Fiction, N
 
 ### Chosen Structure:
 
-Use a multiple conditional structure of IF/ELSE IF/ELSE statements to derive to the appropriate book category.
+Use a multiple conditional structure of `IF/ELSE IF/ELSE` statements to derive to the appropriate book category.
 
 ### Pseudocode for algorithmic structure:
 
@@ -138,13 +138,13 @@ Write a program that identify if the number is odd or even.
 
 ### Decide on the algorithm structure:
 
-**Are there multiple conditions to check?** No, there's only 1 condition and that is to check if the number is odd or even.
-**Is the decision between 2 outcomes?** Yes, there's 2 outcomes.
-**Does the problem involved classifying items into multiple categories?** No, it is a straight-forward check
+- **Are there multiple conditions to check?** No, there's only 1 condition and that is to check if the number is odd or even.
+- **Is the decision between 2 outcomes?** Yes, there's 2 outcomes.
+- **Does the problem involved classifying items into multiple categories?** No, it is a straight-forward check
 
 ### Chosen Structure:
 
-Use a conditional structure of IF/ELSE statements to derive to the appropriate book category.
+Use a conditional structure of `IF/ELSE statements` to derive to the appropriate book category.
 
 ### Pseudocode for algorithmic structure:
 
